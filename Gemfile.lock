@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kiba (3.0.0)
+    rake (11.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kiba
+  rake (~> 11.2.2, ~> 11.2)
+
+BUNDLED WITH
+   2.1.4
