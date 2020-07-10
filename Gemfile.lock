@@ -2,14 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     kiba (3.0.0)
-    rake (11.2.2)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   kiba
-  rake (~> 11.2.2, ~> 11.2)
+  rake (~> 12.3)
 
 BUNDLED WITH
    2.1.4
